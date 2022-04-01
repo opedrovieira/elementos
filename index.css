@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    border-radius: 10px;
+}
+
+.botao {
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    justify-content: space-around;
+    padding: 3px;
+    
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.tres {
+    align-self: flex-start;
+}
